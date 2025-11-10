@@ -42,7 +42,7 @@ Este projeto é dividido em duas partes principais:
 Você precisará rodar as duas partes simultaneamente.
 
 ### 1. Rodar o Wokwi (Hardware)
-1.  Abra o projeto da simulação no Wokwi: [[Link para o projeto no Wokwi aqui!]](https://wokwi.com/projects/446985665374773249)
+1.  Abra o projeto da simulação no Wokwi: https://wokwi.com/projects/446985665374773249
 2.  Inicie a simulação (botão verde).
 3.  Abra o "Serial Monitor" para confirmar que ele conectou ao Wi-Fi e ao MQTT.
 
@@ -67,8 +67,8 @@ Você precisará rodar as duas partes simultaneamente.
 ## 👨‍💻 Autores
 
 Este projeto foi desenvolvido por:
-* Daniel Jose Dantas Jacometo
-* Gustavo Henrique Bispo Costa
-* João Luiz de Souza Pereira
-* Manoela Pinheiro da Silva
-* Victor Azambuja da Silva
+* [Daniel Jose Dantas Jacometo](https://github.com/DevZIKII)
+* [Gustavo Henrique Bispo Costa](https://github.com/GuGuzin14)
+* [João Luiz de Souza Pereira](https://github.com/joaoluiz00)
+* [Manoela Pinheiro da Silva](https://github.com/ma2903)
+* [Victor Azambuja da Silva](https://github.com/buja23)
