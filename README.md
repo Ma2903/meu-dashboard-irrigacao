@@ -13,6 +13,8 @@ O dashboard exibe os seguintes dados diretamente dos sensores:
 * 🧪 **Nível de pH do Solo:** Em uma escala de 0 a 14.
 * 💡 **Status da Bomba:** LIGADA ou DESLIGADA (controlada automaticamente pela umidade do solo).
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 Este projeto é dividido em duas partes principais:
@@ -33,19 +35,21 @@ Este projeto é dividido em duas partes principais:
 * **Comunicação:** [MQTT.js](https://github.com/mqttjs) (para se inscrever no tópico MQTT via WebSockets)
 * **Estilo:** CSS puro (`App.css`)
 
+---
+
 ## 🚀 Como Rodar
 
 Você precisará rodar as duas partes simultaneamente.
 
 ### 1. Rodar o Wokwi (Hardware)
-1.  Abra o projeto da simulação no Wokwi:[ [Link para o projeto no Wokwi]](https://wokwi.com/projects/446985665374773249)
+1.  Abra o projeto da simulação no Wokwi: [[Link para o projeto no Wokwi aqui!]](https://wokwi.com/projects/446985665374773249)
 2.  Inicie a simulação (botão verde).
 3.  Abra o "Serial Monitor" para confirmar que ele conectou ao Wi-Fi e ao MQTT.
 
 ### 2. Rodar o Dashboard (React)
 1.  Clone este repositório:
     ```bash
-    git clone 
+    git clone https://github.com/Ma2903/meu-dashboard-irrigacao.git
     ```
 2.  Entre na pasta e instale as dependências:
     ```bash
@@ -57,3 +61,14 @@ Você precisará rodar as duas partes simultaneamente.
     npm run dev
     ```
 4.  Abra [http://localhost:5173](http://localhost:5173) (ou o link que aparecer no terminal) no seu navegador.
+
+---
+
+## 👨‍💻 Autores
+
+Este projeto foi desenvolvido por:
+* Daniel Jose Dantas Jacometo
+* Gustavo Henrique Bispo Costa
+* João Luiz de Souza Pereira
+* Manoela Pinheiro da Silva
+* Victor Azambuja da Silva
