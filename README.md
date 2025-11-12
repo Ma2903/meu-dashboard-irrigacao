@@ -67,7 +67,7 @@ Você precisará rodar as duas partes simultaneamente.
 ## 👨‍💻 Autores
 
 Este projeto foi desenvolvido por:
-* [Daniel Jose Dantas Jacometo](https://github.com/DevZIKII)
+* [Daniel Jose Dantas Jacometo](https://github.com/DevZIKIII)
 * [Gustavo Henrique Bispo Costa](https://github.com/GuGuzin14)
 * [João Luiz de Souza Pereira](https://github.com/joaoluiz00)
 * [Manoela Pinheiro da Silva](https://github.com/ma2903)
